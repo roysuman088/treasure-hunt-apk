@@ -1,0 +1,23 @@
+{
+  "name": "treasure-hunt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roysuman088/treasure-hunt-apk.git"
+  },
+  "author": "Suman Roy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roysuman088/treasure-hunt-apk/issues"
+  },
+  "homepage": "https://github.com/roysuman088/treasure-hunt-apk#readme",
+  "dependencies": {
+    "download-file": "^0.1.5",
+    "express": "^4.16.2"
+  }
+}
